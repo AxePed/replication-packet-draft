@@ -1,1 +1,2 @@
 # replication-packet-draft
+#The sampling method here was the top 200 songs over the last 20 years. Intended reaction is based on how strongly the artist wants you to feel listening to a song On a scale from one to ten, Instruments is based on the power of an instrument on a scale of one to ten, one being triangle, ten being bagpipes. Simplicity is how complicated the concepts in a song are on a scale from one to three and any award is whether or not a song received any awards. 
